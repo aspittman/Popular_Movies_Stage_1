@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="most_popular_title">Most Popular</string>
+    <string name="top_rated_title">Top Rated</string>
+
+    <!--Detail Items-->
+    <string name="parsed_poster_icon">Movie Poster Image</string>
+    <string name="parsed_movie_title">Movie Title</string>
+    <string name="parsed_release_date">Movie Release Date</string>
+    <string name="parsed_vote_average">Movie Vote Average</string>
+    <string name="parsed_plot_synopsis">Movie Plot Synopsis</string>
+</resources>
