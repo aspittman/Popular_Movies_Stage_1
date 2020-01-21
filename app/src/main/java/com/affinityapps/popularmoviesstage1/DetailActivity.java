@@ -1,14 +1,11 @@
 package com.affinityapps.popularmoviesstage1;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.squareup.picasso.Picasso;
-
 import static com.affinityapps.popularmoviesstage1.MainActivity.EXTRA_PLOT_SYNOPSIS;
 import static com.affinityapps.popularmoviesstage1.MainActivity.EXTRA_RELEASE_DATE;
 import static com.affinityapps.popularmoviesstage1.MainActivity.EXTRA_TITLE;

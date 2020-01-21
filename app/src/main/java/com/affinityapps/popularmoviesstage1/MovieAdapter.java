@@ -7,12 +7,9 @@ import android.view.ViewGroup;
 import android.widget.Adapter;
 import android.widget.Gallery;
 import android.widget.ImageView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.squareup.picasso.Picasso;
-
 import java.util.ArrayList;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieItemsViewHolder> {
